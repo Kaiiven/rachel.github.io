@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="resources/style.css">
+    <title>Reasons why I love my girlfriend!</title>
+    <h1 id="heading">Reasons why I love my girlfriend!</h1>
+
+
+</head>
+
+<body>
+    
+<div>
+    <h2>She is very smart</h2>
+    <img class="photo" src="resources/rachelsmart.png">
+     <p class="imagetext">My girlfriend is very smart and is attending CAMBRIDGE UNIVERSITY because she is a smarty pants! :D</p>
+</div>
+
+<div>
+    <h2>She is very cool and strong</h2>
+    <img class="photo" src="resources/rachelgym.png">
+    <p class="imagetext">My girlfriend goes to the gym and is very strong! :D</p>
+</div>
+<div>
+    <h2>She has nice cats</h2>
+    <img class="photo" src="resources/rachelcat.png">
+    <p class="imagetext">My girlfriend has very pretty cats who are also very funny! :D</P>
+</div>
+
+</body>
+
+
+
+</html>
